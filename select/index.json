@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "虚ろを扇ぐ",
+  "base_artist": "Vivid BAD SQUAD",
+  "createdAt": "2025-12-04T09:10:15.300149Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "虚ろを扇ぐ (feat. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&KAITO)",
+      "artist": "Vivid BAD SQUAD feat. 小豆沢こはね, 白石杏, 東雲彰人, 青柳冬弥 & KAITO",
+      "has_synced": true,
+      "path": "select/01_虚ろを扇ぐ_(feat._小豆沢こはね&白石杏&東雲彰人&青柳冬弥&KAITO)_Vivid_BAD_SQUAD_feat._小豆沢こはね,_白石杏,_東雲彰人,_青柳冬弥_&_KAITO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "虚ろを扇ぐ (feat. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&KAITO)",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": true,
+      "path": "select/02_虚ろを扇ぐ_(feat._小豆沢こはね&白石杏&東雲彰人&青柳冬弥&KAITO)_Vivid_BAD_SQUAD.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "虚ろを扇ぐ",
+      "artist": "Vivid BAD SQUAD feat. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&KAITO",
+      "has_synced": true,
+      "path": "select/03_虚ろを扇ぐ_Vivid_BAD_SQUAD_feat._小豆沢こはね&白石杏&東雲彰人&青柳冬弥&KAITO.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "虚ろを扇ぐ",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": true,
+      "path": "select/04_虚ろを扇ぐ_Vivid_BAD_SQUAD.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "虚ろを扇ぐ - Hollow (feat. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&KAITO)",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": true,
+      "path": "select/05_虚ろを扇ぐ_-_Hollow_(feat._小豆沢こはね&白石杏&東雲彰人&青柳冬弥&KAITO)_Vivid_BAD_SQUAD.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "虚ろを扇ぐ",
+      "artist": "Vivid BAD SQUAD, KAITO, 小豆沢こはね, 白石杏, 東雲彰人 & 青柳冬弥",
+      "has_synced": true,
+      "path": "select/06_虚ろを扇ぐ_Vivid_BAD_SQUAD,_KAITO,_小豆沢こはね,_白石杏,_東雲彰人_&_青柳冬弥.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "虚ろを扇ぐ (feat. 小豆沢こはね & 白石杏 & 東雲彰人 & 青柳冬弥 & KAITO)",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": true,
+      "path": "select/07_虚ろを扇ぐ_(feat._小豆沢こはね_&_白石杏_&_東雲彰人_&_青柳冬弥_&_KAITO)_Vivid_BAD_SQUAD.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "虚ろを扇ぐ",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": false,
+      "path": "select/pl_01_虚ろを扇ぐ_Vivid_BAD_SQUAD.txt"
+    }
+  ]
+}
